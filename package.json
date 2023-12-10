@@ -1,8 +1,8 @@
 {
-  "name": "@v-idol/vidol-agent-sample-a",
+  "name": "@v-idol/vidol-agent-sample-c",
   "version": "1.0.0",
   "private": false,
-  "description": "Vidol Agent Sample A",
+  "description": "Vidol Agent Sample C",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
